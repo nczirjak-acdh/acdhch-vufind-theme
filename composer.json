@@ -10,8 +10,5 @@
             "email": "norbert.czirjak@oeaw.ac.at"
         }
     ],
-    "require": {
-    },
-    "require-dev": {        
-    }
+    "minimum-stability": "dev"
 }
