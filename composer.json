@@ -1,7 +1,7 @@
 {
-    "name": "nczirjak-acdh/acdhch-vufind-theme",
-    "description": "VUFind ACDHCH Theme",
-    "type": "vufind-theme",
+    "name": "nczirjak-acdh/vufind-theme",
+    "description": "VUFind theme",
+    "type": "vufind-module",
     "homepage": "https://github.com/nczirjak-acdh/acdhch-vufind-theme",
     "license": "MIT",
     "authors": [
